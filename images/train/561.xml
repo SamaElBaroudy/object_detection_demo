@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>561.jpg</filename>
+	<path>/home/sama/Downloads/data/data/images/all/561.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>detergent-bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>10</ymin>
+			<xmax>715</xmax>
+			<ymax>540</ymax>
+		</bndbox>
+	</object>
+</annotation>

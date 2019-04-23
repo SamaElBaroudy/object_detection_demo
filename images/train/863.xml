@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>863.jpg</filename>
+	<path>/home/sama/Downloads/data/data/images/all/863.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle-cap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>23</ymin>
+			<xmax>768</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+</annotation>

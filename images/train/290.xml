@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>290.jpg</filename>
+	<path>/home/sama/Downloads/data/data/images/all/290.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yogurt-cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>125</ymin>
+			<xmax>398</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>
